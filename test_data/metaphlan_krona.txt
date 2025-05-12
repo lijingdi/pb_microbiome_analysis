@@ -1,0 +1,248 @@
+19.93058		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia_coli	94.74414	4.36522	0.0	0.763	0.0	11.54533	0.0	27.41784	0.0	67.38689	19.93058
+0.0		Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_sp_MI_10_1553	5.03049	0.0	4.28887	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium_auriscanis	0.22537	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+19.93058		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia_coli	SGB10068	94.74414	4.36522	0.0	0.763	0.0	11.54533	0.0	27.41784	0.0	67.38689	19.93058
+0.0		Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_sp_MI_10_1553	SGB82650	5.03049	0.0	4.28887	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium_auriscanis	SGB17039	0.22537	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_fragilis	0.0	55.1866	0.0	9.83831	0.0	25.32408	0.0	0.0	0.0	1.15413	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_uniformis	0.0	6.05644	0.0	1.08099	0.0	1.36225	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter_gnavus	0.0	3.99039	0.0	0.78314	0.0	1.75942	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia_hansenii	0.0	3.48134	0.0	0.25669	0.0	21.68224	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_dorei	0.0	2.95712	0.0	3.09147	0.0	3.0972	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium_varium	0.0	2.79319	0.0	4.09838	0.0	2.71785	0.0	0.0	0.0	0.11541	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus_phoceensis	0.0	2.5744	0.0	0.04611	0.0	6.92584	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_thetaiotaomicron	0.0	2.12363	0.0	0.0	0.0	1.76519	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_ovatus	0.0	1.83994	0.0	0.59355	0.0	0.14683	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Thomasclavelia	Thomasclavelia_ramosa	0.0	1.76445	0.0	0.07485	0.0	4.13797	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas_funiformis	0.0	1.74908	0.0	0.0	0.0	0.03362	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	GGB116900	GGB116900_SGB210289	0.0	1.447	0.0	0.02152	0.0	0.7479	0.0	1.07334	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	Clostridium_symbiosum	0.0	1.4135	0.0	2.33529	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Flavonifractor	Flavonifractor_plautii	0.0	1.27377	0.0	0.14923	0.0	0.32328	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	Hungatella_hathewayi	0.0	1.2406	0.0	2.20855	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_gallolyticus	0.0	1.09207	0.0	0.0	0.0	2.64082	0.0	0.50771	0.0	5.65131	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_unclassified	Clostridium_innocuum	0.0	0.92734	0.0	0.0651	0.0	1.2932	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_stercoris	0.0	0.58422	0.0	6.98879	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Globicatella	Globicatella_sulfidifaciens	0.0	0.35573	0.0	0.0	0.0	2.20863	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_bolteae	0.0	0.35447	0.0	0.74848	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_aldenensis	0.0	0.32082	0.0	1.18862	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_alcoholdehydrogenati	0.0	0.32054	0.0	0.08998	0.0	0.41525	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Faecalimonas	Faecalimonas_SGB47637	0.0	0.28403	0.0	0.0	0.0	4.87128	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	GGB41904	GGB41904_SGB59003	0.0	0.21931	0.0	0.13109	0.0	0.06183	0.0	2.85554	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas_SGB6963	0.0	0.20486	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter_SGB106351	0.0	0.19784	0.0	0.0	0.0	0.66754	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_unclassified	Lachnospiraceae_bacterium_EP_SM_12S_S03	0.0	0.1858	0.0	0.0846	0.0	0.14314	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_clostridioformis	0.0	0.13349	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor_gallinarum	0.0	0.13011	0.0	0.08395	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella_pneumoniae	0.0	0.11822	0.0	0.0	0.0	0.42119	0.0	43.62411	0.0	1.80637	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_butyricum	0.0	0.05933	0.0	0.0	0.0	1.15713	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_SGB47280	0.0	0.0483	0.0	0.0	0.0	0.06047	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_veronii	0.0	0.04283	0.0	0.49156	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	Anaerotignum_SGB5191	0.0	0.04212	0.0	1.13307	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_unclassified	Eubacteriales_unclassified	Clostridiales_bacterium	0.0	0.02999	0.0	0.3855	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	GGB9398	GGB9398_SGB14738	0.0	0.02121	0.0	0.02682	0.0	0.15779	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridiaceae_unclassified	Clostridiaceae_bacterium	0.0	0.01862	0.0	0.07184	0.0	0.02127	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_perfringens	0.0	0.0174	0.0	0.0	0.0	0.0	0.0	23.70219	0.0	6.75428	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_algae	0.0	0.01709	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera_massiliensis	0.0	0.00796	0.0	0.73788	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia	Facklamia_sp_7083_14_GEN3	0.0	0.00481	0.0	0.0	0.0	0.05148	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_neonatale	0.0	0.0048	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_fragilis	SGB1853	0.0	55.1866	0.0	3.13891	0.0	2.14648	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_uniformis	SGB1836	0.0	6.05644	0.0	1.08099	0.0	1.36225	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter_gnavus	SGB4584	0.0	3.99039	0.0	0.78314	0.0	1.75942	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia_hansenii	SGB4798	0.0	3.48134	0.0	0.25669	0.0	21.68224	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_dorei	SGB1815	0.0	2.95712	0.0	3.09147	0.0	3.0972	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium_varium	SGB6038	0.0	2.79319	0.0	4.09838	0.0	2.71785	0.0	0.0	0.0	0.11541	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Coprococcus	Coprococcus_phoceensis	SGB4588	0.0	2.5744	0.0	0.04611	0.0	6.92584	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_thetaiotaomicron	SGB1861	0.0	2.12363	0.0	0.0	0.0	1.76519	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_ovatus	SGB1871	0.0	1.83994	0.0	0.59355	0.0	0.14683	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Thomasclavelia	Thomasclavelia_ramosa	SGB6744	0.0	1.76445	0.0	0.07485	0.0	4.13797	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas_funiformis	SGB6962	0.0	1.74908	0.0	0.0	0.0	0.03362	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	GGB116900	GGB116900_SGB210289	SGB210289	0.0	1.447	0.0	0.02152	0.0	0.7479	0.0	1.07334	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	Clostridium_symbiosum	SGB4699	0.0	1.4135	0.0	2.33529	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Flavonifractor	Flavonifractor_plautii	SGB15132	0.0	1.27377	0.0	0.14923	0.0	0.32328	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Hungatella	Hungatella_hathewayi	SGB4742	0.0	1.2406	0.0	2.20855	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_gallolyticus	SGB8018	0.0	1.09207	0.0	0.0	0.0	2.64082	0.0	0.50771	0.0	5.65131	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_unclassified	Clostridium_innocuum	SGB4037	0.0	0.92734	0.0	0.0651	0.0	1.2932	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_stercoris	SGB1830	0.0	0.58422	0.0	6.98879	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Globicatella	Globicatella_sulfidifaciens	SGB7813	0.0	0.35573	0.0	0.0	0.0	2.20863	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_bolteae	SGB4758	0.0	0.35447	0.0	0.74848	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_aldenensis	SGB4762	0.0	0.32082	0.0	1.18862	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_alcoholdehydrogenati	SGB4752	0.0	0.32054	0.0	0.08998	0.0	0.41525	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Faecalimonas	Faecalimonas_SGB47637	SGB47637	0.0	0.28403	0.0	0.0	0.0	4.87128	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	GGB41904	GGB41904_SGB59003	SGB59003	0.0	0.21931	0.0	0.13109	0.0	0.06183	0.0	2.85554	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas_SGB6963	SGB6963	0.0	0.20486	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter_SGB106351	SGB106351	0.0	0.19784	0.0	0.0	0.0	0.66754	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_unclassified	Lachnospiraceae_bacterium_EP_SM_12S_S03	SGB4551	0.0	0.1858	0.0	0.0846	0.0	0.14314	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_clostridioformis	SGB4760	0.0	0.13349	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor_gallinarum	SGB29328	0.0	0.13011	0.0	0.08395	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella_pneumoniae	SGB10115_group	0.0	0.11822	0.0	0.0	0.0	0.42119	0.0	43.62411	0.0	1.80637	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_butyricum	SGB6170	0.0	0.05933	0.0	0.0	0.0	1.15713	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_SGB47280	SGB47280	0.0	0.0483	0.0	0.0	0.0	0.06047	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_veronii	SGB9947	0.0	0.04283	0.0	0.49156	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	Anaerotignum_SGB5191	SGB5191	0.0	0.04212	0.0	1.13307	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	GGB9398	GGB9398_SGB14738	SGB14738	0.0	0.02121	0.0	0.02682	0.0	0.15779	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_unclassified	Eubacteriales_unclassified	Clostridiales_bacterium	SGB15140	0.0	0.02023	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridiaceae_unclassified	Clostridiaceae_bacterium	SGB6153	0.0	0.01862	0.0	0.07184	0.0	0.02127	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_perfringens	SGB6191	0.0	0.0174	0.0	0.0	0.0	0.0	0.0	23.70219	0.0	6.75428	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_algae	SGB10333	0.0	0.01709	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_unclassified	Eubacteriales_unclassified	Clostridiales_bacterium	SGB15159	0.0	0.00975	0.0	0.3855	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera_massiliensis	SGB5857	0.0	0.00796	0.0	0.73788	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia	Facklamia_sp_7083_14_GEN3	SGB109727	0.0	0.00481	0.0	0.0	0.0	0.05148	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_neonatale	SGB6169	0.0	0.0048	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_coagulans	0.0	0.0	95.71113	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_coagulans	SGB7825	0.0	0.0	95.71113	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_faecis	0.0	0.0	0.0	11.54606	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB93873	OFGB93873	FGB93873	GGB78790	GGB78790_SGB106402	0.0	0.0	0.0	9.67355	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Lawsonellaceae	Lawsonella	Lawsonella_SGB3665	0.0	0.0	0.0	8.46461	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_vulgatus	0.0	0.0	0.0	8.33194	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Ruthenibacterium	Ruthenibacterium_lactatiformans	0.0	0.0	0.0	4.11169	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila_wadsworthia	0.0	0.0	0.0	3.12453	0.0	0.09297	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_putredinis	0.0	0.0	0.0	2.70608	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	Clostridium_scindens	0.0	0.0	0.0	2.07983	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_salyersiae	0.0	0.0	0.0	2.03622	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_nordii	0.0	0.0	0.0	1.23226	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	GGB4379	GGB4379_SGB6025	0.0	0.0	0.0	1.10129	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides_merdae	0.0	0.0	0.0	1.04701	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides_distasonis	0.0	0.0	0.0	0.89621	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	Dysosmobacter_welbionis	0.0	0.0	0.0	0.84659	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	GGB3441	GGB3441_SGB4591	0.0	0.0	0.0	0.70841	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_blaseri	0.0	0.0	0.0	0.57974	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio_piger	0.0	0.0	0.0	0.54881	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter_glycyrrhizinilyticus	0.0	0.0	0.0	0.47004	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB2867	OFGB2867	FGB2867	GGB9158	GGB9158_SGB14095	0.0	0.0	0.0	0.44548	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus_russellii	0.0	0.0	0.0	0.36722	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_unclassified	Lachnospiraceae_bacterium_2_1_46FAA	0.0	0.0	0.0	0.28058	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium_callanderi	0.0	0.0	0.0	0.2224	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_unclassified	Lachnospiraceae_unclassified_SGB4859	0.0	0.0	0.0	0.22235	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB3012	OFGB3012	FGB3012	GGB9480	GGB9480_SGB14874	0.0	0.0	0.0	0.20379	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_finegoldii	0.0	0.0	0.0	0.19603	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio_desulfuricans	0.0	0.0	0.0	0.19241	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella_wadsworthensis	0.0	0.0	0.0	0.18697	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	Anaerotignum_lactatifermentans	0.0	0.0	0.0	0.08931	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_citroniae	0.0	0.0	0.0	0.0783	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera_SGB5856	0.0	0.0	0.0	0.06365	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_unclassified	Intestinimonas	Intestinimonas_timonensis	0.0	0.0	0.0	0.06354	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella_sp_BA40	0.0	0.0	0.0	0.05642	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB48199	OFGB48199	FGB48199	GGB79307	GGB79307_SGB105428	0.0	0.0	0.0	0.05185	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus_canis	0.0	0.0	0.0	0.05175	0.0	0.0	0.0	0.0	0.0	0.954	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas_SGB65924	0.0	0.0	0.0	0.03363	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB77202	OFGB77202	FGB77202	GGB128652	GGB128652_SGB159065	0.0	0.0	0.0	0.03017	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Terrisporobacter	Terrisporobacter_SGB70975	0.0	0.0	0.0	0.03012	0.0	0.00336	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	GGB50802	GGB50802_SGB106454	0.0	0.0	0.0	0.02608	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	GGB3602	GGB3602_SGB66069	0.0	0.0	0.0	0.02016	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Acutalibacteraceae	GGB9457	GGB9457_SGB14849	0.0	0.0	0.0	0.01455	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_faecis	SGB1860	0.0	0.0	0.0	11.54606	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB93873	OFGB93873	FGB93873	GGB78790	GGB78790_SGB106402	SGB106402	0.0	0.0	0.0	9.67355	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Mycobacteriales	Lawsonellaceae	Lawsonella	Lawsonella_SGB3665	SGB3665	0.0	0.0	0.0	8.46461	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_vulgatus	SGB1814	0.0	0.0	0.0	8.33194	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_fragilis	SGB1855	0.0	0.0	0.0	6.6994	0.0	23.1776	0.0	0.0	0.0	1.15413	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Ruthenibacterium	Ruthenibacterium_lactatiformans	SGB15271	0.0	0.0	0.0	4.11169	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila_wadsworthia	SGB15452	0.0	0.0	0.0	3.12453	0.0	0.09297	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_putredinis	SGB2318	0.0	0.0	0.0	2.70608	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	Clostridium_scindens	SGB4630	0.0	0.0	0.0	2.07983	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_salyersiae	SGB1857	0.0	0.0	0.0	2.03622	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_nordii	SGB1858	0.0	0.0	0.0	1.23226	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	GGB4379	GGB4379_SGB6025	SGB6025	0.0	0.0	0.0	1.10129	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides_merdae	SGB1949	0.0	0.0	0.0	1.04701	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides_distasonis	SGB1934	0.0	0.0	0.0	0.89621	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	Dysosmobacter_welbionis	SGB15078	0.0	0.0	0.0	0.84659	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	GGB3441	GGB3441_SGB4591	SGB4591	0.0	0.0	0.0	0.70841	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_blaseri	SGB22002	0.0	0.0	0.0	0.57974	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio_piger	SGB15467	0.0	0.0	0.0	0.54881	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter_glycyrrhizinilyticus	SGB4606	0.0	0.0	0.0	0.47004	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB2867	OFGB2867	FGB2867	GGB9158	GGB9158_SGB14095	SGB14095	0.0	0.0	0.0	0.44548	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus_russellii	SGB745	0.0	0.0	0.0	0.36722	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_unclassified	Lachnospiraceae_bacterium_2_1_46FAA	SGB4549	0.0	0.0	0.0	0.28058	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium_callanderi	SGB4080	0.0	0.0	0.0	0.2224	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_unclassified	Lachnospiraceae_unclassified_SGB4859	SGB4859	0.0	0.0	0.0	0.22235	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB3012	OFGB3012	FGB3012	GGB9480	GGB9480_SGB14874	SGB14874	0.0	0.0	0.0	0.20379	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_finegoldii	SGB1862	0.0	0.0	0.0	0.19603	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio_desulfuricans	SGB15462	0.0	0.0	0.0	0.19241	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella_wadsworthensis	SGB9286	0.0	0.0	0.0	0.18697	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	Anaerotignum_lactatifermentans	SGB5193	0.0	0.0	0.0	0.08931	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster_citroniae	SGB4761	0.0	0.0	0.0	0.0783	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera_SGB5856	SGB5856	0.0	0.0	0.0	0.06365	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriales_unclassified	Intestinimonas	Intestinimonas_timonensis	SGB29334	0.0	0.0	0.0	0.06354	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella_sp_BA40	SGB86217	0.0	0.0	0.0	0.05642	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB48199	OFGB48199	FGB48199	GGB79307	GGB79307_SGB105428	SGB105428	0.0	0.0	0.0	0.05185	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus_canis	SGB77430	0.0	0.0	0.0	0.05175	0.0	0.0	0.0	0.0	0.0	0.954	0.0
+0.0		Bacteria	Firmicutes	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas_SGB65924	SGB65924	0.0	0.0	0.0	0.03363	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB77202	OFGB77202	FGB77202	GGB128652	GGB128652_SGB159065	SGB159065	0.0	0.0	0.0	0.03017	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Terrisporobacter	Terrisporobacter_SGB70975	SGB70975	0.0	0.0	0.0	0.03012	0.0	0.00336	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Peptostreptococcales	Peptostreptococcaceae	GGB50802	GGB50802_SGB106454	SGB106454	0.0	0.0	0.0	0.02608	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	GGB3602	GGB3602_SGB66069	SGB66069	0.0	0.0	0.0	0.02016	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Acutalibacteraceae	GGB9457	GGB9457_SGB14849	SGB14849	0.0	0.0	0.0	0.01455	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_jejuni	0.0	0.0	0.0	0.0	0.0	0.97925	0.0	0.0	0.0	0.25932	0.0
+0.0		Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	GGB143476	GGB143476_SGB6032	0.0	0.0	0.0	0.0	0.0	0.7182	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio_alginolyticus	0.0	0.0	0.0	0.0	0.0	0.69725	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_casseliflavus	0.0	0.0	0.0	0.0	0.0	0.69081	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_paraputrificum	0.0	0.0	0.0	0.0	0.0	0.17715	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Dermabacteraceae	Brachybacterium	Brachybacterium_massiliense	0.0	0.0	0.0	0.0	0.0	0.15368	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_hominis	0.0	0.0	0.0	0.0	0.0	0.14759	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_faecicola	0.0	0.0	0.0	0.0	0.0	0.13309	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	GGB102621	GGB102621_SGB105985	0.0	0.0	0.0	0.0	0.0	0.11898	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Ursidibacter	Ursidibacter_maritimus	0.0	0.0	0.0	0.0	0.0	0.08327	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Moraxella	Moraxella_canis	0.0	0.0	0.0	0.0	0.0	0.06818	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_acetigenes	0.0	0.0	0.0	0.0	0.0	0.05714	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB1292	OFGB1292	FGB1292	GGB3109	GGB3109_SGB4121	0.0	0.0	0.0	0.0	0.0	0.03841	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Rothia	Rothia_sp_SD9660Na	0.0	0.0	0.0	0.0	0.0	0.03075	0.0	0.0	0.0	0.0	0.0
+10.22384		Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_faecalis	0.0	0.0	0.0	0.0	0.0	0.02745	0.0	0.0	0.0	0.0	10.22384
+0.0		Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Profundicola	Profundicola_chukchiensis	0.0	0.0	0.0	0.0	0.0	0.02332	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_SGB65129	0.0	0.0	0.0	0.0	0.0	0.01911	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_jejuni	SGB19444	0.0	0.0	0.0	0.0	0.0	0.97925	0.0	0.0	0.0	0.25932	0.0
+0.0		Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	GGB143476	GGB143476_SGB6032	SGB6032	0.0	0.0	0.0	0.0	0.0	0.7182	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio_alginolyticus	SGB9895	0.0	0.0	0.0	0.0	0.0	0.69725	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_casseliflavus	SGB7952	0.0	0.0	0.0	0.0	0.0	0.69081	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_paraputrificum	SGB6187	0.0	0.0	0.0	0.0	0.0	0.17715	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Dermabacteraceae	Brachybacterium	Brachybacterium_massiliense	SGB34200	0.0	0.0	0.0	0.0	0.0	0.15368	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_hominis	SGB29097	0.0	0.0	0.0	0.0	0.0	0.14759	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_faecicola	SGB1887	0.0	0.0	0.0	0.0	0.0	0.13309	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	GGB102621	GGB102621_SGB105985	SGB105985	0.0	0.0	0.0	0.0	0.0	0.11898	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Ursidibacter	Ursidibacter_maritimus	SGB81682	0.0	0.0	0.0	0.0	0.0	0.08327	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Moraxella	Moraxella_canis	SGB10431	0.0	0.0	0.0	0.0	0.0	0.06818	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola_acetigenes	SGB1890	0.0	0.0	0.0	0.0	0.0	0.05714	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	CFGB1292	OFGB1292	FGB1292	GGB3109	GGB3109_SGB4121	SGB4121	0.0	0.0	0.0	0.0	0.0	0.03841	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Rothia	Rothia_sp_SD9660Na	SGB152382	0.0	0.0	0.0	0.0	0.0	0.03075	0.0	0.0	0.0	0.0	0.0
+10.22384		Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_faecalis	SGB7962	0.0	0.0	0.0	0.0	0.0	0.02745	0.0	0.0	0.0	0.0	10.22384
+0.0		Bacteria	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Profundicola	Profundicola_chukchiensis	SGB194983	0.0	0.0	0.0	0.0	0.0	0.02332	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_SGB65129	SGB65129	0.0	0.0	0.0	0.0	0.0	0.01911	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter_sp_TJ11	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.69014	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_gallinarum	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.08371	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_gallinarum	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.02662	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Morganella	Morganella_morganii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01309	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Lysinibacillus	Lysinibacillus_contaminans	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00571	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter_sp_TJ11	SGB71037	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.69014	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_gallinarum	SGB7951	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.08371	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium_gallinarum	SGB77456	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.02662	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Morganella	Morganella_morganii	SGB10028	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01309	0.0	0.0	0.0
+0.0		Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Lysinibacillus	Lysinibacillus_contaminans	SGB7502	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00571	0.0	0.0	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_SGB1983	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.58796	0.0
+0.0		Bacteria	Bacteroidota	CFGB72559	OFGB72559	FGB72559	GGB76988	GGB76988_SGB104625	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.35908	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_crevioricanis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.07413	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter_cloacae	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.05048	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Tannerella	Tannerella_forsythia	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.63095	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_pyogenes	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.2157	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_SGB1983	SGB1983	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.58796	0.0
+0.0		Bacteria	Bacteroidota	CFGB72559	OFGB72559	FGB72559	GGB76988	GGB76988_SGB104625	SGB104625	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.35908	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	Porphyromonas_crevioricanis	SGB2062	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.07413	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter_cloacae	SGB10131	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.05048	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Tannerella	Tannerella_forsythia	SGB27842	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.63095	0.0
+0.0		Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides_pyogenes	SGB1806	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.2157	0.0
+17.65181		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella_enterica	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.65181
+16.13849		Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus_spizizenii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.13849
+14.15717		Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_aeruginosa	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14.15717
+8.3125		Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_aureus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.3125
+8.28456		Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus_fermentum	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.28456
+4.78454		Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria_monocytogenes	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.78454
+0.51615		Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.51615
+0.00037		Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus_cookii	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00037
+17.65181		Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella_enterica	SGB10073	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	17.65181
+16.13849		Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus_spizizenii	SGB7791_group	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	16.13849
+14.15717		Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_aeruginosa	SGB12320	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	14.15717
+8.3125		Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_aureus	SGB7852	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.3125
+8.28456		Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus_fermentum	SGB7106	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	8.28456
+4.78454		Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria_monocytogenes	SGB7535	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.78454
+0.51615		Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	EUK4932	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.51615
+0.00037		Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus_cookii	SGB7404	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00037
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_lactis	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+0.0		Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_lactis	SGB66296	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

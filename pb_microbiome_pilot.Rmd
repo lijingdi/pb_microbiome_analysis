@@ -1,0 +1,77 @@
+---
+title: "pb_microbiome_pilot"
+author: "Jingdi (Judy) Li"
+date: "2025-05-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r load packages, cache=FALSE}
+pacman::p_load(phyloseq,
+               tidyr,
+               vegan,
+               ggplot2,
+               dplyr,
+               tibble,
+               tidyverse,
+               rstatix,
+               reshape2,
+               here,
+               metaAidR,
+               devtools, 
+               patchwork, 
+               R.rsp, 
+               orchaRd, 
+               ape, 
+               phytools, 
+               cli
+)
+
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r load functions}
+source(here("func", "func.R"))
+```
+
+```{r load object}
+save.image(here("test_data", "newest.RData"))
+
+load(here("test_data", "newest.RData"))
+```
+
+
+```{r load dataset}
+f <- read.csv(here("test_data", "metaphlan_profile_merged_bray-curtis.tsv"), sep="\t", , row.names = 1, header = 1)
+f2 <- read.csv(here("test_data", "metaphlan_profile_merged_richness.tsv"), sep="\t", , row.names = 1, header = 1)
+f3 <- read.csv(here("test_data", "metaphlan_profile_merged_shannon.tsv"), sep="\t", , row.names = 1, header = 1)
+f4 <- read.csv(here("test_data", "metaphlan_profile_merged_simpson.tsv"), sep="\t", , row.names = 1, header = 1)
+f5 <- read.csv(here("test_data", "metaphlan_profile_merged_gini.tsv"), sep="\t", , row.names = 1, header = 1)
+```
+
+```{r visualize distance}
+f <- as.matrix(f)
+heatmap(f)
+```
+```{r visualize diversity}
+f2 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= observed)) + geom_point()
+f3 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= diversity_shannon)) + geom_point()
+f4 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= diversity_gini_simpson)) + geom_point()
+f5 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= dominance_gini)) + geom_point()
+
+
+```
+
