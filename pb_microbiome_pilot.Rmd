@@ -44,11 +44,11 @@ pacman::p_load(phyloseq,
 You can also embed plots, for example:
 
 ```{r load functions}
-source(here("func", "func.R"))
+#source(here("func", "func.R"))
 ```
 
 ```{r load object}
-save.image(here("test_data", "newest.RData"))
+#save.image(here("test_data", "newest.RData"))
 
 load(here("test_data", "newest.RData"))
 ```
@@ -64,14 +64,47 @@ f5 <- read.csv(here("test_data", "metaphlan_profile_merged_gini.tsv"), sep="\t",
 
 ```{r visualize distance}
 f <- as.matrix(f)
-heatmap(f)
+f_fil <- subset(f, !row.names(f) %in% c("Dmock", "Dshield"))
+f_fil <- f_fil[, !colnames(f_fil) %in% c("Dmock", "Dshield")]
+
+
+heatmap(f_fil)
 ```
 ```{r visualize diversity}
 f2 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= observed)) + geom_point()
 f3 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= diversity_shannon)) + geom_point()
 f4 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= diversity_gini_simpson)) + geom_point()
 f5 %>% mutate(sample = row.names(.)) %>% ggplot(aes(x=sample, y= dominance_gini)) + geom_point()
+f_alpha <- cbind(f2,f3,f4,f5)
 
+##seasonal/site difference
+f_alpha_long <- f_alpha %>%
+  mutate(sample = row.names(.)) %>%
+  filter(!sample %in% c("Dmock", "Dshield")) %>%
+  pivot_longer(., cols = c(observed, diversity_shannon, diversity_gini_simpson, dominance_gini), names_to = "metric",
+               values_to = "value") %>%
+  mutate(season = ifelse(grepl("DF", sample), "fall", "NA")) %>%
+  mutate(season = ifelse(grepl("DS", sample), "spring", season)) %>%
+  mutate(site = ifelse(grepl("R", sample), "rectal", "NA")) %>%
+  mutate(site = ifelse(grepl("N", sample), "nasal", site)) 
+
+p1 <- f_alpha_long %>%
+  filter(metric == "observed") %>%
+  ggplot(aes(x = site, y = value)) +
+  geom_boxplot() +
+  geom_jitter() +
+  facet_grid(cols=vars(metric), rows=vars(season)) + 
+  theme_bw(base_size = 20)
+
+p2 <- f_alpha_long %>%
+  filter(metric == "observed") %>%
+  ggplot(aes(x = season, y = value)) +
+  geom_boxplot() +
+  geom_jitter() +
+  facet_grid(cols=vars(metric), rows=vars(site)) + 
+  theme_bw(base_size = 20)
+
+cowplot::plot_grid(p1,p2)
 
 ```
 
